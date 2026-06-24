@@ -54,15 +54,20 @@ Performed in Jupyter Notebook:
 - Filled map of student distribution  
 - Year-wise trend analysis   
 - COVID impact and recovery KPIs
-![Global Overview Dashboard](images/Global_overview.png)
-
+  
+<p align="center">
+  <img src="Dashboard_screenshots/Global_overview.png" alt="Global Overview Dashboard" width="100%">
+</p>
 
 ### 🔹 Page 2: Competitiveness & Growth
 - Recovery vs Pre-COVID comparison  
 - Growth and market positioning (scatter plot)  
 - Academic hub analysis (field → country)  
 - Key drivers of growth  
-![Competitiveness and Growth Dashboard](images/Competitiveness_and_Growth.png)
+
+<p align="center">
+  <img src="Dashboard_screenshots/Competitiveness_and_Growth.png" alt="Competitiveness and Growth Dashboard" width="100%">
+</p>
 ---
 
 ## 📈 Key Insights
