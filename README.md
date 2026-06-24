@@ -52,7 +52,7 @@ Performed in Jupyter Notebook:
 
 ### 🔹 Page 1: Global Overview
 - Filled map of student distribution  
-- Year-wise trend analysis  
+- Year-wise trend analysis   
 - COVID impact and recovery KPIs
 ![Global Overview Dashboard](images/Global_overview.png)
 
